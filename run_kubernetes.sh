@@ -19,4 +19,10 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward flasksklearn 8000:80
+kubectl port-forward flasksklearn 8000:80 &
+
+# Step 5:
+# Add the prediction value
+kubectl logs -f flasksklearn
+
+

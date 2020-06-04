@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/gh/kolly83/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/kolly83/Operationalize-a-Machine-Learning-Microservice-API)
 
 ### Project Overview
 

@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/kolly83/Operationalize-a-Machine-Learning-Microservice-API?branch=master)
+[![CircleCI](https://circleci.com/gh/circleci/Operationalize-a-Machine-Learning-Microservice-API?branch=master.svg?style=svg)](https://app.circleci.com/pipelines/github/kolly83/Operationalize-a-Machine-Learning-Microservice-API?branch=master)
 
 ### Project Overview
 
